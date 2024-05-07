@@ -1,2 +1,2 @@
 # Guessify
-Guessify App init
+Guessify App inited
